@@ -1,4 +1,4 @@
-// User's balance (for the sake of this example, set to 50,000 DOGE)
+// User's balance (for the sake of this example, set to 50,000 DOGS)
 let userBalance = 50000;
 
 // Minimum withdrawal amount (10,000 Dogs)
